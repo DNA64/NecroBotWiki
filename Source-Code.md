@@ -59,7 +59,7 @@ Download and Install [Visual Studio 2015](https://go.microsoft.com/fwlink/?LinkI
 7. Save the `auth.json` file
 8.  Edit `bin/debug/Config/config.json` with your desired settings
   * The defaults settings are generic so you WILL have to modify these to match what you expect from NecroBot.
-  * More details on these settings can be found [here](https://github.com/DNA64/NecroBotWiki/blob/master/config.md)
+  * More details on these settings can be found [here](https://github.com/DNA64/NecroBotWiki/blob/master/Config.md)
   * For GPX Path Setup, follow the guide at [GPX Pathing Setup](https://github.com/DNA64/NecroBotWiki/blob/master/GPX-Pathing-Setup.md)
   * For Sniping Setup, follow the guide at [Sniping Setup](https://github.com/DNA64/NecroBotWiki/blob/master/Sniping-Setup.md)
 9.  Put your latitude and longitude values in the `DefaultLatitude` and `DefaultLongitude` variables

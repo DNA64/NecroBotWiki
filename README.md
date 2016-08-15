@@ -14,7 +14,7 @@ This wiki was rebuilt using Google cached pages in a effort to preserve the info
 * [Compiled Release Setup](https://github.com/DNA64/NecroBotWiki/blob/master/Compiled-Releases.md)
 * [Source Code Setup [DEV]](https://github.com/DNA64/NecroBotWiki/blob/master/Source-Code.md)
 * [GPX Pathing Setup](https://github.com/DNA64/NecroBotWiki/blob/master/GPX-Pathing-Setup.md)
-* [Using your own DeviceInfo]
+* [Using your own DeviceInfo](https://github.com/DNA64/NecroBotWiki/blob/master/Device-Setup.md)
   * [Chat & Rules](https://github.com/DNA64/NecroBotWiki/blob/master/Chat-&-Rules.md)
 * [Chatting using Discord]
 * [Rules]

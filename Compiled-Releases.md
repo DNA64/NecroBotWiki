@@ -56,7 +56,7 @@ For PTC
   * You can find GPS coordinates [here](http://mondeca.com/index.php/en/any-place-en) to fit your desired location.
 4.  Save the `config.json` file.
 5.  Run `NecroBot` again.
-  * If you are using a Google account to login which is setup with 2-factor authentication, NecroBot will open a Google page in your default browswer and request for your 2-factor token.
+  * If you are using a Google account to login which is setup with 2-factor authentication, NecroBot will open a Google page in your default browser and request for your 2-factor token.
 6. Enjoy!
 
 ## Changing the Location of the Bot

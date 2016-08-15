@@ -34,3 +34,5 @@ Keep in mind that new rules can be added at any time. Moderators, helpers and ot
 Just to clarify few things... The discord server is for the Necronomicon main repo, support for other forks will be at the very least limited (if not totally unsupported) to the `#forks` channels.
 
 This does not mean we forbid any forks, this is all open-source so by all means. We just wish you contribute to the community.
+
+_https://github.com/DNA64/NecroBotWiki_

@@ -17,3 +17,5 @@ Edit your configuration settings with the following
 Download the below feeder, and open it before you open your bot.
 
 [Pogo Location Feeder](https://github.com/5andr0/PogoLocationFeeder)
+
+_https://github.com/DNA64/NecroBotWiki_

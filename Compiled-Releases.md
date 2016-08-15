@@ -10,7 +10,7 @@ Note: You will need some basic Computer Experience. Need help? Join the [Chat!](
 
 ### Using compiled release
 
-1.  Download the latest offcial release (0.8.6) Release.zip using Google Search etc.
+1.  Download the latest official release (0.8.6) Release.zip using Google Search etc.
 2.  Unzip the downloaded files, run the program (NecroBot.exe).
 3.  A console window will appear and then soon close. This is generating the config/auth JSON files.
 4.  Navigate to the Config/auth.json file.

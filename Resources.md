@@ -21,3 +21,5 @@ List of user-submitted GPX files to be used with Necro-bot as well as common far
 ## Configs
 
 [Chinese Translated NecroBot Wiki](https://kejun.tk/pmgobot/)
+
+_https://github.com/DNA64/NecroBotWiki_

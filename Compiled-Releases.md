@@ -64,3 +64,5 @@ For PTC
 1.  If your Bot is running, close it.
 2.  Change the value of `DefaultLatitude` and `DefaultLongitude` in your `Config/config.json` file.
 3.  Run the bot. Done!
+
+_https://github.com/DNA64/NecroBotWiki_

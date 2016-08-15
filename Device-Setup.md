@@ -26,3 +26,5 @@ To change the device information in /Config/auth.json to YOUR personal device, y
 `"FirmwareTags": "", // adb.exe shell getprop ro.build.tags`   
 `"FirmwareType": "", // adb.exe shell getprop ro.build.type`   
 `"FirmwareFingerprint": "" // adb.exe shell getprop ro.build.fingerprint`   
+
+_https://github.com/DNA64/NecroBotWiki_

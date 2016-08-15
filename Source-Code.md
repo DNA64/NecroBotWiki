@@ -76,3 +76,5 @@ Download and Install [Visual Studio 2015](https://go.microsoft.com/fwlink/?LinkI
 2.  If your Bot is running, close it.
 3.  Change the value of `DefaultLatitude` and `DefaultLongitude` in your `NecroBot\PoGo.NecroBot.CLI\bin\Debug\Config\config.json` file
 4.  Run the bot
+
+_https://github.com/DNA64/NecroBotWiki_

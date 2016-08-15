@@ -15,3 +15,5 @@ We want all settings to be serialize to JSON, both ClientSettings and LogicSetti
 ## Log4net
 
 The current Logger system isn't great, we want to replace it with log4net.
+
+_https://github.com/DNA64/NecroBotWiki_

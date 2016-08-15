@@ -166,3 +166,5 @@ System.Net.Http.HttpRequestException: An error occurred while sending the reques
 ## What translations does NecroBot support?
 
 Navigate to the Translations folder in your NecroBot installation directory and that should show a list of files of the different languages it supports.
+
+_https://github.com/DNA64/NecroBotWiki_

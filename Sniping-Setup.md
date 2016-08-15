@@ -4,11 +4,11 @@
 
 ### Scheduled Intervals
 
-**Non-GPX**
+##### Non-GPX
 
 If `UseGPXPathing` is set to `false`, Sniping will execute every Pokestop.
 
-**GPX**
+##### GPX
 
 If `UseGPXPathing` is set to `true` and `GPXFile` is found, Sniping will execute every second or based on the value in milliseconds for `MinDelayBetweenSnipes` (whichever is higher).
 
